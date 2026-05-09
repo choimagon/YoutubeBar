@@ -18,6 +18,7 @@ cd YoutubeBar
 2. Build the app bundle:
 
 ```bash
+chmod +x ./scripts/build_app.sh
 ./scripts/build_app.sh
 ```
 
